@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
 - June 2022 - Aug 2022: Research Assistant at Faculty of Science and Engineering, UNNC  Remote
+
+## Connect
+- [![LeetCode](https://static.is26.com/tmp/icons/leetcode.svg)]
+- [![LinkedIn](https://static.is26.com/tmp/icons/linkedin.svg)]
