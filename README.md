@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 你好👋
 
 <!--
 **Manfredss/Manfredss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🌐 Speak multiple languages: Chinese, Shanghainese, English, German, Spanish, Italian
 - 📷 Passionate about Photography. Has a Canon 80D with EF-S 18-200mm lens
 - ✈️ Globetritter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
+- 🎮 Video game lover
 - 📫 How to reach me: wenfeiqi@usc.edu / 1419344875@qq.com
 
 ## Intern Experience
@@ -24,7 +25,3 @@ Here are some ideas to get you started:
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
 - June 2022 - Aug 2022: Research Assistant at Faculty of Science and Engineering, UNNC  Remote
-
-## Connect
-- [![LeetCode](https://static.is26.com/tmp/icons/leetcode.svg)]
-- [![LinkedIn](https://static.is26.com/tmp/icons/linkedin.svg)]
