@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - June 2022 - Aug 2022: Research Assistant at Faculty of Science and Engineering, UNNC  Remote
 
 ## Connect
-- [](https://leetcode.cn/u/compassionate-spence73e/)(Leetcode 力扣)
-- [](https://www.linkedin.com/in/wenfei-qi-103ab7297/)[LinkedIn Wenfei Qi]
+- [](https://leetcode.cn/u/compassionate-spence73e/)[Leetcode 力扣](https://leetcode.cn/u/compassionate-spence73e/)
+- [![LinkedIn](https://static.is26.com/tmp/icons/linkedin.svg)](https://www.linkedin.com/in/wenfei-qi-103ab7297/)[LinkedIn Wenfei Qi](https://www.linkedin.com/in/wenfei-qi-103ab7297/)
