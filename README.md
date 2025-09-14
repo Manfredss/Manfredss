@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📚 Currently a MSAI student of University of Southern California
 - 🌐 Speak multiple languages: Chinese(Mandarin), Shanghainese, English, German, Spanish, Italian
 - 📷 Passionate about Photography. Have a Canon 80D with EF-S 18-200mm lens
-- ✈️ Globetritter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
+- ✈️ Globetrotter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
 - 🎮 Video game lover
 - 📫 How to reach me: wenfeiqi@usc.edu / 1419344875@qq.com
 
