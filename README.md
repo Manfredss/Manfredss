@@ -1,12 +1,18 @@
-## Hi👋 你好👋
+## Hi👋 氦👋
 
 <!--
 **Manfredss/Manfredss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manfredss&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manfredss&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manfredss&layout=compact) -->
 
 🤖 LLM Researcher / 📷 Photographer / 🏎️ Formula One Fan
 
