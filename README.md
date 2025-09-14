@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manfredss&layout=compact&langs_count=8&card_width=320" />
 </a>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manfredss&layout=compact) -->
 
 🤖 LLM Researcher / 📷 Photographer / 🏎️ Formula One Fan
 
@@ -31,3 +29,7 @@ Here are some ideas to get you started:
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
 - June 2022 - Aug 2022: Research Assistant at Faculty of Science and Engineering, UNNC  Remote
+
+## Connect
+- [](https://leetcode.cn/u/compassionate-spence73e/)(Leetcode 力扣)
+- [](https://www.linkedin.com/in/wenfei-qi-103ab7297/)[LinkedIn Wenfei Qi]
