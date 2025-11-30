@@ -6,8 +6,11 @@
 Here are some ideas to get you started:
 -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical" />
+  </a> -->
+  <a href="https://gitmystat.vercel.app">
+    <img height=200 align="center" src="https://gitmystat.vercel.app/user?theme=onedark&username=Manfredss">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manfredss&layout=compact&langs_count=8&card_width=320" />
