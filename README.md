@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 ## Dev Envs & Techs🛠️
 <p align="center">
-  <img alt="Apple Silicon M4 SoC" src="https://img.shields.io/badge/macOS(M4)-000000?logo=apple&logoColor=white&logoSize=auto" /> /
-  <img alt="AMD 9800X3D" src="https://img.shields.io/badge/AMD 9800X3D-000000?logo=amd&logoColor=orange&logoSize=auto" />
-  <img alt="Nvidia RTX 5070Ti" src="https://img.shields.io/badge/RTX 5070Ti-000000?logo=nvidia&logoColor=green&logoSize=auto" /> + 
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoSize=auto">
+  <img alt="Apple Silicon M4 SoC" src="https://img.shields.io/badge/macOS(M4)-000000?style=plastic&logo=apple&logoColor=white&logoSize=auto" /> /
+  <img alt="AMD 9800X3D" src="https://img.shields.io/badge/AMD 9800X3D-000000?style=plastic&logo=amd&logoColor=orange&logoSize=auto" />
+  <img alt="Nvidia RTX 5070Ti" src="https://img.shields.io/badge/RTX 5070Ti-000000?style=plastic&logo=nvidia&logoColor=green&logoSize=auto" /> + 
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white&logoSize=auto">
 </p>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&logoSize=auto" />
