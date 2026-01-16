@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🌐 Speak multiple languages: Chinese(Mandarin), Shanghainese, English, German, Spanish, Italian
 - 📷 Passionate about Photography. Have a Canon 80D with EF-S 18-200mm lens
 - ✈️ Globetrotter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
-- 🏎️ Formula One Fan!
+- 🏎️ Formula One Fan! Forza Ferrari!
 - 🎮 Video game lover
 - 📫 How to reach me: wenfeiqi@usc.edu / wenfei.qi.private@outlook.com
 
