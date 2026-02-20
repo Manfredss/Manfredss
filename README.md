@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wenfeiqi@usc.edu / wenfei.qi.private@outlook.com
 
 ## Intern Experience
-- Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd  Shanghai, China
+- Jan 2026 - present: Research Assistant at Autonomy Research Center for STEAHM (ARCS), CSUN, Los Angeles, United States
+- Dec 2025 - present: API Compatibility Engineer, Code Camp at Baidu, Remote
+- Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd, Shanghai, China
 
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
