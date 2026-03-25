@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## Intern Experience
 - Jan 2026 - present: Research Assistant at Autonomy Research Center for STEAHM (ARCS), CSUN, Los Angeles, United States
-- Dec 2025 - present: API Compatibility Engineer, Code Camp at Baidu, Remote
+- Dec 2025 - present: AI Infra Intern, Baidu, Remote
 - Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd, Shanghai, China
 
 ## Research Experience
