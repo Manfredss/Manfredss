@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🇨🇳 From Jiaxing, Zhejiang, China
 - 📚 Currently a MSAI student of University of Southern California, 1st degree BSc in CSAI at University of Nottingham, UK.
 - 🌐 Speak multiple languages: Chinese(Mandarin), Shanghainese, English, German, Spanish, Italian
-- 📷 Passionate about Photography. Have a Canon 80D with EF-S 18-200mm lens
+- 📷 Passionate about Photography. Have a Canon 80D with EF-S 18-200mm lens and R5 Mark II with RF 70-200mm f/4 lens
 - ✈️ Globetrotter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
 - 🏎️ Formula One Fan! Forza Ferrari!
 - 🎮 Video game lover
