@@ -12,12 +12,13 @@ Here are some ideas to get you started:
   <!-- <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manfredss&layout=compact&langs_count=8&card_width=320" />
   </a> -->
-  <a href="https://gitmystat.vercel.app">
+  <!-- <a href="https://gitmystat.vercel.app">
     <img height=240 align="center" src="https://gitmystat.vercel.app/user?theme=tokyonight&username=Manfredss">
   </a>
   <a href="https://gitmystat.vercel.app">
     <img height=240 align="center" src="https://gitmystat.vercel.app/top?username=rahuletto&layout=bar">
-  </a>
+  </a> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfredss&theme=tokyonight" />
 </p>
 
 <p align="center">
