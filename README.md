@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 - 📚 Currently a MSAI student of University of Southern California, 1st degree BSc in CSAI at University of Nottingham, UK.
 - 🌐 Speak multiple languages: Chinese(Mandarin), Shanghainese, English, German, Spanish, Italian
 - 📷 Passionate about Photography. Have a Canon 80D with EF-S 18-200mm lens and R5 Mark II with RF 70-200mm f/4 lens
-- ✈️ Globetrotter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸
+- ✈️ Globetrotter with travels to many countries/regions 🇨🇳🇭🇰🇸🇬🇬🇧🇶🇦🇪🇸🇩🇪🇯🇵🇺🇸🇩🇴🇦🇬🇰🇳🇧🇸
 - 🏎️ Formula One Fan! Forza Ferrari!
 - 🎮 Video game lover
 - 📫 How to reach me: wenfeiqi@usc.edu / wenfei.qi.private@outlook.com
 
 ## Intern Experience
-- May 2026 - present: LLM Heterogeneous Computing R&D Engineer, Baidu, Shanghai, China
+- May 2026 - present: LLM Heterogeneous Computing R&D Engineer at Baidu, Shanghai, China
 - Jan 2026 - May 2026: Research Assistant at Autonomy Research Center for STEAHM (ARCS), CSUN, Los Angeles, United States
 - Dec 2025 - May 2026: AI Infra Intern, Baidu, Remote
 - Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd, Shanghai, China
