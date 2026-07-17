@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+
 <p align="center">
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Manfredss&show_icons=true&theme=radical" />
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://gitmystat.vercel.app">
     <img height=240 align="center" src="https://gitmystat.vercel.app/top?username=rahuletto&layout=bar">
   </a> -->
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manfredss&theme=2077&animation=fade&duration=0.2)
+  <img height=300 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manfredss&theme=2077&animation=fade&duration=0.2">
 </p>
 
 <p align="center">
