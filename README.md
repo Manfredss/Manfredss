@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://gitmystat.vercel.app">
     <img height=240 align="center" src="https://gitmystat.vercel.app/top?username=rahuletto&layout=bar">
   </a> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfredss&theme=tokyonight" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manfredss&theme=2077&animation=fade&duration=0.2)
 </p>
 
 <p align="center">
