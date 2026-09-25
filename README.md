@@ -60,7 +60,18 @@ Here are some ideas to get you started:
 - Jan 2026 - May 2026: Research Assistant at Autonomy Research Center for STEAHM (ARCS), CSUN, Los Angeles, United States
 - Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd, Shanghai, China
 
+## Open-Source Contributions
+- **vLLM** — Fixed prompt-aware Qwen3 reasoning parsing across Chat,
+  Batch Chat and Responses APIs, with regression and GPU model validation.
+  - [PR #56257](https://github.com/vllm-project/vllm/pull/56257) · Under Review
+
+- **SGLang** — Submitted fixes for MPS/MLX memory budgeting, KV-cache
+  lifetime, chained decode cache accounting and session-state cleanup.
+  - [PR #39676](https://github.com/sgl-project/sglang/pull/39676) · Under Review
+  - [PR #40046](https://github.com/sgl-project/sglang/pull/40046) · Under Review
+  - [PR #40044](https://github.com/sgl-project/sglang/pull/40044) · Under Review
+
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
-> Utilising genetic programming together with surrogate to accelerate the evolution of scheduling algorithm, thereby improving the throughput of the Meishan Container Port, Ningbo
+  - Utilising genetic programming together with surrogate to accelerate the evolution of scheduling algorithm, thereby improving the throughput of the Meishan Container Port, Ningbo
 - June 2022 - Aug 2022: Research Assistant at Faculty of Science and Engineering, UNNC Remote
