@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <img height=240 align="center" src="https://gitmystat.vercel.app/top?username=rahuletto&layout=bar">
   </a> -->
   <img height=300 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manfredss&theme=2077&animation=fade&duration=0.2">
+  <!-- <a href="https://ghfind.com/u/manfredss?ref=badge"><img src="https://ghfind.com/api/card/manfredss?theme=dark" alt="GitHub Roast" width="600" /></a> -->
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://steamcommunity.com/profiles/76561198348046217/" target="_blank"><img src="https://img.shields.io/badge/steam-2a475e.svg?&logo=steam&logoColor=white&logoSize=auto" alt="steam"></a>
   <a href="https://space.bilibili.com/348876661" target="_blank"><img src="https://img.shields.io/badge/Bilibili-ff6699.svg?&logo=bilibili&logoColor=white&logoSize=auto" alt="bilibili"></a>
   <a href="https://www.linkedin.com/in/wenfei-qi-103ab7297/" target="_blank"><img src="https://static.is26.com/tmp/icons/linkedin.svg" alt="LinkedIn""></a>
-  <a href="https://ghfind.com/u/manfredss?ref=badge"><img src="https://ghfind.com/api/badge/manfredss" alt="GitHub Roast 评分徽章" /></a>
+  <a href="https://ghfind.com/u/manfredss?ref=badge"><img src="https://ghfind.com/api/badge/manfredss" alt="GitHub Roast score badge" /></a>
 </p>
 
 ## Dev Envs & Techs🛠️
