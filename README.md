@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   - [PR #39676](https://github.com/sgl-project/sglang/pull/39676) · Under Review
   - [PR #40046](https://github.com/sgl-project/sglang/pull/40046) · Under Review
   - [PR #40044](https://github.com/sgl-project/sglang/pull/40044) · Under Review
-  - [PR #41314](https://github.com/sgl-project/sglang/pull/41314) · Under Review
+  - [PR #41314](https://github.com/sgl-project/sglang/pull/41314) · Merged
   - [PR #41785](https://github.com/sgl-project/sglang/pull/41785) · Under Review
 
 ## Research Experience
