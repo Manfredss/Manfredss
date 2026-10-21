@@ -62,19 +62,26 @@ Here are some ideas to get you started:
 - Aug 2024 - Nov 2024: LLM & AI Innovation Internship at Ximalaya Technology Co., Ltd, Shanghai, China
 
 ## Open-Source Contributions
-- **vLLM** — Fixed prompt-aware Qwen3 reasoning parsing across Chat,
-  Batch Chat and Responses APIs, with regression and GPU model validation.
-  - [PR #56257](https://github.com/vllm-project/vllm/pull/56257) · Under Review
-  - [PR #60013](https://github.com/vllm-project/vllm/pull/60013) · Under Review
-  - [PR #60163](https://github.com/vllm-project/vllm/pull/60163) · Under Review
+### ---vLLM---
+Fixed prompt-aware Qwen3 reasoning parsing across Chat, Batch Chat and Responses APIs, with regression and GPU model validation.
 
-- **SGLang** — Submitted fixes for MPS/MLX memory budgeting, KV-cache
-  lifetime, chained decode cache accounting and session-state cleanup.
-  - [PR #39676](https://github.com/sgl-project/sglang/pull/39676) · Under Review
-  - [PR #40046](https://github.com/sgl-project/sglang/pull/40046) · Under Review
-  - [PR #40044](https://github.com/sgl-project/sglang/pull/40044) · Under Review
-  - [PR #41314](https://github.com/sgl-project/sglang/pull/41314) · Merged
-  - [PR #41785](https://github.com/sgl-project/sglang/pull/41785) · Under Review
+***Under Review***
+- https://github.com/vllm-project/vllm/pull/62367
+- https://github.com/vllm-project/vllm/pull/60163
+
+### ---SGLang--- 
+Submitted fixes for MPS/MLX memory budgeting, KV-cache lifetime, chained decode cache accounting and session-state cleanup.
+
+***Merged***
+- https://github.com/sgl-project/sglang/pull/41314
+
+***Under Review***
+- https://github.com/sgl-project/sglang/pull/39676
+- https://github.com/sgl-project/sglang/pull/40046
+- https://github.com/sgl-project/sglang/pull/40044
+- https://github.com/sgl-project/sglang/pull/41785
+- https://github.com/sgl-project/sglang/pull/42155
+- https://github.com/sgl-project/sglang/pull/44224
 
 ## Research Experience
 - June 2023 - May 2024: Research Assistant at UNNC Digital Port Technologies Lab  Ningbo, China & Nottingham, UK
