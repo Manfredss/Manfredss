@@ -65,9 +65,11 @@ Here are some ideas to get you started:
 ### ---vLLM---
 Fixed prompt-aware Qwen3 reasoning parsing across Chat, Batch Chat and Responses APIs, with regression and GPU model validation.
 
+***Merged***
+- https://github.com/vllm-project/vllm/pull/60163
+
 ***Under Review***
 - https://github.com/vllm-project/vllm/pull/62367
-- https://github.com/vllm-project/vllm/pull/60163
 
 ### ---SGLang--- 
 Submitted fixes for MPS/MLX memory budgeting, KV-cache lifetime, chained decode cache accounting and session-state cleanup.
