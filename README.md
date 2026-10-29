@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?&logo=c%2b%2b&logoSize=auto">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&logoSize=auto" />
   <img alt="PaddlePaddle" src="https://img.shields.io/badge/PaddlePaddle-0000ee?logo=paddlepaddle&logoColor=white&logoSize=auto" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?logo=vllm&logoColor=white&logoSize=auto" />
 </p>
 
 
