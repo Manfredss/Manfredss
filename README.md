@@ -78,10 +78,6 @@ Submitted fixes for MPS/MLX memory budgeting, KV-cache lifetime, chained decode 
 - https://github.com/sgl-project/sglang/pull/41314
 
 ***Under Review***
-- https://github.com/sgl-project/sglang/pull/39676
-- https://github.com/sgl-project/sglang/pull/40046
-- https://github.com/sgl-project/sglang/pull/40044
-- https://github.com/sgl-project/sglang/pull/41785
 - https://github.com/sgl-project/sglang/pull/42155
 - https://github.com/sgl-project/sglang/pull/44224
 
