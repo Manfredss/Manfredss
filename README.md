@@ -68,9 +68,10 @@ Fixed prompt-aware Qwen3 reasoning parsing across Chat, Batch Chat and Responses
 
 ***Merged***
 - https://github.com/vllm-project/vllm/pull/60163
+- https://github.com/vllm-project/vllm/pull/62367
 
 ***Under Review***
-- https://github.com/vllm-project/vllm/pull/62367
+- https://github.com/vllm-project/vllm/pull/64681
 
 ### ---SGLang--- 
 Submitted fixes for MPS/MLX memory budgeting, KV-cache lifetime, chained decode cache accounting and session-state cleanup.
