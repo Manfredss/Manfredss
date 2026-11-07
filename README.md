@@ -68,9 +68,11 @@ Here are some ideas to get you started:
 ***Merged***
 - https://github.com/vllm-project/vllm/pull/60163
 - https://github.com/vllm-project/vllm/pull/62367
+- https://github.com/vllm-project/vllm/pull/64681
 
 ***Under Review***
-- https://github.com/vllm-project/vllm/pull/64681
+https://github.com/vllm-project/vllm/pull/65997
+
 
 ### ---SGLang--- 
 Submitted fixes for MPS/MLX memory budgeting, KV-cache lifetime, chained decode cache accounting and session-state cleanup.
